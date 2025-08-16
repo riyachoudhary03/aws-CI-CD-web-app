@@ -37,7 +37,7 @@ Users start by pushing a new commit to the GitHub repository. This triggers the 
 
 1. Clone or download the repository.
 ```sh
-git clone https://github.com/deepanshu1334/aws-cicd-devops-web-app-main
+git clone https://github.com/riyachoudhary03/aws-CI-CD-web-app
 ```
 2. Follow the steps mentioned in the [Steps](#steps-) section.
 3. Clean up the resources by following the [Clean Up](./Steps/step5.md) steps.
@@ -52,5 +52,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author 🙋‍♂
 
-- [Deepanshu](https://www.linkedin.com/in/deepanshu-chaudhry-b35274231/) on LinkedIn.
-- You Can also check out my [Medium](https://medium.com/@dk107841) for articles on DevOps Tools and Technologies.️
+- [Riya Choudhary](https://www.linkedin.com/in/riya-choudhary-868454291/) on LinkedIn.
+- You Can also check out my [Medium](https://medium.com/@riyachoudhary7983) for articles on DevOps Tools and Technologies.️
